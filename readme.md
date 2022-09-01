@@ -1,7 +1,7 @@
 
 # Hi, Ich bin Luiz!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Luiz Kornrumpf-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizkornrumpf/)](https://www.linkedin.com/in/luizkornrumpf/)
+[![Linkedin Badge](https://img.shields.io/badge/-luizkornrumpf-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizkornrumpf/)](https://www.linkedin.com/in/luizkornrumpf/)
 
 ## Technologies I Love
 * Electronics
